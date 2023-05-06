@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-hpocjo/static/css/main.d2117d1e.css",
+    "main.js": "https://.github.io/csb-hpocjo/static/js/main.a44d756f.js",
+    "index.html": "https://.github.io/csb-hpocjo/index.html",
+    "main.d2117d1e.css.map": "https://.github.io/csb-hpocjo/static/css/main.d2117d1e.css.map",
+    "main.a44d756f.js.map": "https://.github.io/csb-hpocjo/static/js/main.a44d756f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2117d1e.css",
+    "static/js/main.a44d756f.js"
+  ]
+}
